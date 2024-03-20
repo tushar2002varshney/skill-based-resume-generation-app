@@ -8,9 +8,8 @@ import { Component } from '@angular/core';
   styleUrl: './demo-form.component.css'
 })
 export class DemoFormComponent {
-  constructor() { }
-
-  selectTemplate(template: string) {
-    console.log('Selected Template:', template);
-  }
+selectTemplate(arg0: string) {
+throw new Error('Method not implemented.');
+}
+ 
   }
