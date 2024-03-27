@@ -11,5 +11,5 @@ export class DemoFormComponent {
 selectTemplate(arg0: string) {
 throw new Error('Method not implemented.');
 }
- 
+
   }
